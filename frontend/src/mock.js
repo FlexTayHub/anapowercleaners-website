@@ -28,7 +28,7 @@ export const mockData = {
       id: 3,
       title: "Driveway & Walkway",
       description: "Deep cleaning for driveways, walkways, and paved surfaces",
-      icon: "Road",
+      icon: "MapPin",
       image: "https://images.unsplash.com/photo-1718152521364-b9655b8a7926?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1NzZ8MHwxfHNlYXJjaHw0fHxwcmVzc3VyZSUyMHdhc2hpbmd8ZW58MHx8fHwxNzU3NTk1Nzg1fDA&ixlib=rb-4.1.0&q=85"
     },
     {
