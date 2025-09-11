@@ -1,11 +1,11 @@
 import React from 'react';
-import { Home, Building, Road, Car, Shield } from 'lucide-react';
+import { Home, Building, MapPin, Car, Shield } from 'lucide-react';
 import { Card, CardContent } from './ui/card';
 
 const iconMap = {
   Home,
   Building,
-  Road,
+  MapPin,
   Car,
   Shield
 };
