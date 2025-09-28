@@ -19,7 +19,11 @@ const Header = ({ business }) => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-blue-600">{business.name}</h1>
+            <img 
+              src="https://customer-assets.emergentagent.com/job_accra-pressure-wash/artifacts/qka9lpqp_IMG_3274.png" 
+              alt="ANA Power Cleaners Logo" 
+              className="h-12 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
