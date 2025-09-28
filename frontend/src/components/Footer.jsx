@@ -10,7 +10,13 @@ const Footer = ({ business }) => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold text-white mb-6">{business.name}</h3>
+            <div className="mb-6">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_accra-pressure-wash/artifacts/qka9lpqp_IMG_3274.png" 
+                alt="ANA Power Cleaners Logo" 
+                className="h-16 w-auto mb-4"
+              />
+            </div>
             <p className="text-gray-300 leading-relaxed">
               Professional pressure washing services throughout Greater Accra, Ghana. 
               Specializing in residential, commercial, and compound cleaning.
